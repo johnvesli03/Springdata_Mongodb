@@ -1,0 +1,5 @@
+com\employeemanagement\employeedetails\EmployeedetailsApplication.class
+com\employeemanagement\employeedetails\repository\empRepository.class
+com\employeemanagement\employeedetails\controller\empController.class
+com\employeemanagement\employeedetails\model\employee.class
+com\employeemanagement\employeedetails\service\employeeservice.class
